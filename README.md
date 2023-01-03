@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me - do email me on **agrawalrajat310@gmail.com**
 
-- 👉 My linkedin Profile - [Rajat Agrawal](https://www.linkedin.com/in/rajatagrawal310/)
+- 👉 My LinkedIn Profile - [Rajat Agrawal](https://www.linkedin.com/in/rajatagrawal310/)
 
 - ⚡ Fun fact **do write some exciting fact here asap**
 - 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <p align="left">
  
-<a href="[https://twitter.com/mhtbansal11](https://twitter.com/RAJATAGRAWAL310)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhtbansal11" height="30" width="40" /></a>
+<a href="https://twitter.com/RAJATAGRAWAL310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhtbansal11" height="30" width="40" /></a>
  
  
  
