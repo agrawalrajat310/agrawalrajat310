@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - 👉 My LinkedIn Profile - [Rajat Agrawal](https://www.linkedin.com/in/rajatagrawal310/)
 
 - ⚡ Fun fact **do write some exciting fact here asap**
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 
