@@ -45,13 +45,13 @@ Here are some ideas to get you started:
 
 - 👉 My LinkedIn Profile - [Rajat Agrawal](https://www.linkedin.com/in/rajatagrawal310/)
 
-- ⚡ Fun fact **do write some exciting fact here asap**
+- <!--⚡ Fun fact **do write some exciting fact here asap**-->
 
 
 <h3 align="left">Connect with me:</h3>
 
 
-<p align="left">
+<p>
  
 <a href="https://twitter.com/RAJATAGRAWAL310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhtbansal11" height="30" width="40" /></a>
  
