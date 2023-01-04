@@ -100,12 +100,12 @@ A passionate Developer, who loves to create beautiful and functional websites. p
 ## 📊 GitHub Stats:
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrawalrajat310&show_icons=true&locale=en&layout=compact" alt="agrawalrajat310" /></p><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrawalrajat310&show_icons=true&locale=en&layout=compact" alt="agrawalrajat310" /></p><br>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agrawalrajat310&show_icons=true&locale=en" alt="agrawalrajat310" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalrajat310&" alt="agrawalrajat310" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalrajat310&" alt="agrawalrajat310" /></p>
 
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=agrawalrajat310&theme=rogue)](https://github.com/mhtbansal11/github-readme-activity-graph)
 
