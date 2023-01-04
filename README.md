@@ -97,6 +97,8 @@ A passionate Developer, who loves to create beautiful and functional websites. p
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agrawalrajat310" alt="agrawalrajat310" /></a> </p>
 
+![](https://github-profile-trophy.vercel.app/?username=agrawalrajat310&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ## 📊 GitHub Stats:
 
 
