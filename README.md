@@ -56,15 +56,15 @@ A passionate Developer, who loves to create beautiful and functional websites. p
 
 <p text-align="center">
  
-<a href="https://twitter.com/RAJATAGRAWAL310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhtbansal11" height="30" width="40" /></a>
+<a href="https://twitter.com/RAJATAGRAWAL310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
  
  
  
-<a href="https://www.linkedin.com/in/rajatagrawal310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-bansal11" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajatagrawal310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
  
  
  
-<a href="https://codesandbox.io/u/agrawalrajat310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mhtbansal11" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/agrawalrajat310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
  
 <a href="https://codepen.io/agrawalrajat310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="agrawalrajat310" height="30" width="40" /></a>
  <!--
