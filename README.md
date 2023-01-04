@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawalrajat310&label=Profile%20views&color=0e75b6&style=flat" alt="agrawalrajat310" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agrawalrajat310" alt="agrawalrajat310" /></a> </p>
+x
 
 <p align="left"> <a href="https://twitter.com/RAJATAGRAWAL310" target="blank"><img src="https://img.shields.io/twitter/follow/RAJATAGRAWAL310?logo=twitter&style=for-the-badge" alt="agrawalrajat310" /></a> </p>
 
@@ -92,6 +92,13 @@ A passionate Developer, who loves to create beautiful and functional websites. p
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/agrawalrajat310"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="agrawalrajat310" /></a></p><br><br>
 <br>
+
+## 🏆 GitHub Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agrawalrajat310" alt="agrawalrajat310" /></a> </p>
+
+## 📊 GitHub Stats:
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrawalrajat310&show_icons=true&locale=en&layout=compact" alt="agrawalrajat310" /></p>
 
