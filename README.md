@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://agrawalrajat310.github.io)
 
-- 💬 Ask me about **HTML, CSS, Java Script, ReactJS, Redux, NodeJs, Express Js, MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Redux, NodeJs, Express Js, MongoDB and Data Structure And Algorithms**
 
 - 📫 How to reach me - do email me on **agrawalrajat310@gmail.com**
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **Quick learner**
 
 ### Summary
-A passionate Developer, who loves to create beautiful and functional websites. proficient in Web Development, HTML, CSS, JavaScript, React Js + Redux, Next Js, Mongo DB, Express JS, Node Js, Data Structure And Algorithms. Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a Full-Stack Web Developer.
+A passionate Developer, who loves to create beautiful and functional websites. Proficient in Web Development, HTML, CSS, JavaScript, React Js + Redux, Next Js, Mongo DB, Express JS, Node Js, Data Structure And Algorithms. Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a Full-Stack Web Developer.
 
 
 <h3 align="left">Connect with me:</h3>
