@@ -111,7 +111,7 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalrajat310&" alt="agrawalrajat310" /></p>
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=agrawalrajat310&theme=rogue)](https://github.com/mhtbansal11/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=agrawalrajat310&theme=rogue)](https://github.com/agrawalrajat310/github-readme-activity-graph)
 
 
 
