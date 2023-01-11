@@ -55,23 +55,17 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
 
 
 <p text-align="center">
+
+<a href="https://www.linkedin.com/in/rajatagrawal310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
  
 <a href="https://twitter.com/RAJATAGRAWAL310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
  
- 
- 
-<a href="https://www.linkedin.com/in/rajatagrawal310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
- 
- 
- 
+
 <a href="https://codesandbox.io/u/agrawalrajat310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
  
 <a href="https://codepen.io/agrawalrajat310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="agrawalrajat310" height="30" width="40" /></a>
- <!--
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>-->
- 
- 
- 
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -96,13 +90,6 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif?auto=format,compress&gif-q=60&format=webm" width="100" height="90px">
  <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3550843-2970428.png" width="100">
  <img src="https://cdn.dribbble.com/users/7040/screenshots/8214019/media/9d162bf2d3303da6f3e777bbae322b33.gif" alt="agrawalrajat310" width="100"  height="100px">
- 
- 
- 
- 
- 
- 
- 
  
 </div>
 
