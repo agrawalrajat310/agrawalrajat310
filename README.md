@@ -97,6 +97,9 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
 <p><a href="https://www.buymeacoffee.com/agrawalrajat310"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="agrawalrajat310" /></a></p><br><br>
 <br>
 
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 🏆 GitHub Trophies:
 
 
@@ -118,5 +121,4 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=agrawalrajat310&theme=rogue)](https://github.com/agrawalrajat310/github-readme-activity-graph)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
