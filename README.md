@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - 👉 My LinkedIn Profile - [Rajat Agrawal](https://www.linkedin.com/in/rajatagrawal310/)
 
-- ⚡ Fun fact **Quick learner**
+- ⚡ Fun fact ** I think, I can write good & clean quality code**
 
 ### Summary
 A passionate Developer, who loves to create slick and attractive websites. Proficient in Web Development, HTML, CSS, JavaScript, React Js + Redux, Next Js, Mongo DB, Express JS, Node Js, Data Structure And Algorithms. Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a Full-Stack Web Developer.
