@@ -78,7 +78,7 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
  -->
  
  <div align="center">
- <img src="![image](https://user-images.githubusercontent.com/77153888/217089221-f15f2bfb-f7a9-491c-beed-e6fd201df8a6.png)" width="100" height="100px" placeholder="HTML">
+ <img src="https://media.licdn.com/dms/image/C5122AQF9_IGT1XQnWg/feedshare-shrink_1280/0/1561388213088?e=2147483647&v=beta&t=nNjNJ9_CAZb9qsrZKhhT0YhtM9Tma4XHmzosVs8UKQo" width="100" height="100px" placeholder="HTML">
   <img src="https://portfolio-himanshu.in/assets/imgs/css3.gif" width="100" height="100px" placeholder="">  
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" placeholder="">      
  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" placeholder="">      
