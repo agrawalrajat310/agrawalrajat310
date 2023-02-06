@@ -59,7 +59,7 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
 <a href="https://www.linkedin.com/in/rajatagrawal310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
 
  
-<a href="https://twitter.com/RAJATAGRAWAL310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
+<a href="https://twitter.com/RAJATAGRAWAL310" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
  
 
 <!-- <a href="https://codesandbox.io/u/agrawalrajat310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a> -->
@@ -79,35 +79,61 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
  
  <div align="center">
  
- <img src="https://media.licdn.com/dms/image/C5122AQF9_IGT1XQnWg/feedshare-shrink_1280/0/1561388213088?e=2147483647&v=beta&t=nNjNJ9_CAZb9qsrZKhhT0YhtM9Tma4XHmzosVs8UKQo" width="100" height="100px" placeholder="HTML">
+ <img src="https://media.licdn.com/dms/image/C5122AQF9_IGT1XQnWg/feedshare-shrink_1280/0/1561388213088?e=2147483647&v=beta&t=nNjNJ9_CAZb9qsrZKhhT0YhtM9Tma4XHmzosVs8UKQo" width="100" height="100px" alt="HTML">
  
- <img src="https://portfolio-himanshu.in/assets/imgs/css3.gif" width="100" height="100px" placeholder="CSS">  
+ <img src="https://portfolio-himanshu.in/assets/imgs/css3.gif" width="100" height="100px" alt="CSS">  
  
- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" placeholder="JS">  
+ <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" alt="JS">  
  
- <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" placeholder="React">  
- 
- <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47243naql4ppv14fb6z23ni6c6o75mhx1w55umom65&rid=200.webp&ct=g" width="100" placeholder="GitHub">  
- 
- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" placeholder="VSCode">  
+ <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" alt="React">  
  
  
- <img src="https://codetru.com/images/all/nodejsdis.gif" width="100" placeholder="NodeJS">
  
- <img src="https://cdn.dribbble.com/users/989984/screenshots/5880822/comp_10.gif" width="100" height="100px" placeholder="Slack">
+
  
- <img src="https://miro.medium.com/max/1200/0*GTTsEc-bsWoqcOoM.gif" width="120" height="120px" placeholder="MongoDB">
+ <img src="https://codetru.com/images/all/nodejsdis.gif" width="100" alt="NodeJS">
  
- <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3550832-2970417.png" width="100" placeholder="Netlify">
+  <img src="https://miro.medium.com/max/1200/0*GTTsEc-bsWoqcOoM.gif" width="120" height="120px" alt="MongoDB">
  
- <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif?auto=format,compress&gif-q=60&format=webm" width="100" height="90px" placeholder="GIT">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3550843-2970428.png" width="100" alt="NPM">
  
- <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3550843-2970428.png" width="100" placeholder="NPM">
- 
- <img src="https://cdn.dribbble.com/users/7040/screenshots/8214019/media/9d162bf2d3303da6f3e777bbae322b33.gif" alt="agrawalrajat310" width="100"  height="100px" placeholder="CodeSandBox">
  
  
 <h3 align="left">Tools:</h3>
+ 
+ 
+ <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47243naql4ppv14fb6z23ni6c6o75mhx1w55umom65&rid=200.webp&ct=g" width="100" alt="GitHub">  
+ 
+ <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" alt="VSCode">  
+ 
+ 
+ 
+ <img src="https://cdn.dribbble.com/users/989984/screenshots/5880822/comp_10.gif" width="100" height="100px" alt="Slack">
+ 
+
+ 
+ <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3550832-2970417.png" width="100" alt="Netlify">
+ 
+ <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif?auto=format,compress&gif-q=60&format=webm" width="100" height="90px" alt="GIT">
+ 
+ 
+ <img src="https://cdn.dribbble.com/users/7040/screenshots/8214019/media/9d162bf2d3303da6f3e777bbae322b33.gif" alt="agrawalrajat310" width="100"  height="100px" alt="CodeSandBox">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 </div>
 
