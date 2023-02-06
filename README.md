@@ -105,7 +105,7 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
  
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif?auto=format,compress&gif-q=60&format=webm" width="100" height="90px" alt="GIT">
  
- <img src="https://cdn.dribbble.com/users/989984/screenshots/5880822/comp_10.gif" align="right" width="100" height="90px" alt="Slack">
+ <img src="https://cdn.dribbble.com/users/989984/screenshots/5880822/comp_10.gif?auto=format,compress&gif-q=60&format=webm" width="100" height="90px" alt="Slack">
 
 </div>
 
