@@ -60,64 +60,53 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
  -->
  
- <div align="center">
+<div align="center">
  
- <img src="https://media.licdn.com/dms/image/C5122AQF9_IGT1XQnWg/feedshare-shrink_1280/0/1561388213088?e=2147483647&v=beta&t=nNjNJ9_CAZb9qsrZKhhT0YhtM9Tma4XHmzosVs8UKQo" width="100" height="100px" alt="HTML">
+<img src="https://media.licdn.com/dms/image/C5122AQF9_IGT1XQnWg/feedshare-shrink_1280/0/1561388213088?e=2147483647&v=beta&t=nNjNJ9_CAZb9qsrZKhhT0YhtM9Tma4XHmzosVs8UKQo" width="100" height="100px" alt="HTML">
  
- <img src="https://portfolio-himanshu.in/assets/imgs/css3.gif" width="100" height="100px" alt="CSS">  
+<img src="https://portfolio-himanshu.in/assets/imgs/css3.gif" width="100" height="100px" alt="CSS">  
  
- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" alt="JS">  
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" alt="JS">  
  
- <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" alt="React">  
+<img src="https://farm5.staticflickr.com/4529/38018565835_1bf7e196f5.jpg" alt="Typescript" width="100"  height="100px">  
  
+<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" alt="React"> 
  
+<img src="https://i0.wp.com/programmingwithmosh.com/wp-content/uploads/2020/02/reduxlogo.png?ssl=1" alt="Redux" style="transform:rotate(360deg), transition: all .25s ease"  width="100" height="90px">
  
+<img src="https://sledsworth.gallerycdn.vsassets.io/extensions/sledsworth/react-redux-es6-snippets/0.5.3/1530106605209/Microsoft.VisualStudio.Services.Icons.Default" alt="React Redux " width="100" height="100px">
 
+<img src="https://codetru.com/images/all/nodejsdis.gif" width="100" alt="NodeJS">
  
- <img src="https://codetru.com/images/all/nodejsdis.gif" width="100" alt="NodeJS">
+<img src="https://vectorified.com/images/express-js-icon-20.png" alt="Express JS" width="100"  height="100px">
  
-  <img src="https://miro.medium.com/max/1200/0*GTTsEc-bsWoqcOoM.gif" width="120" height="120px" alt="MongoDB">
+<img src="https://miro.medium.com/max/1200/0*GTTsEc-bsWoqcOoM.gif" width="120" height="120px" alt="MongoDB">
  
-  <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3550843-2970428.png" width="100" alt="NPM">
+<img src="https://cdn.iconscout.com/icon/free/png-256/npm-3550843-2970428.png" width="100" alt="NPM">
  
+<img src="https://opencollective-production.s3.us-west-1.amazonaws.com/d9875b30-d156-11e9-9bd6-9b3137b96616.png" width="100">
+ 
+<img src="https://cdn.dribbble.com/users/187497/screenshots/6764704/gifma.gif" alt="Figma" width="110" height="110px">
  
  
 <h3 align="left">Tools:</h3>
  
+<img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47243naql4ppv14fb6z23ni6c6o75mhx1w55umom65&rid=200.webp&ct=g" width="100" alt="GitHub"> 
  
- <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47243naql4ppv14fb6z23ni6c6o75mhx1w55umom65&rid=200.webp&ct=g" width="100" alt="GitHub">  
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" alt="VSCode">  
  
- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" alt="VSCode">  
+<img src="https://cdn.dribbble.com/users/7040/screenshots/8214019/media/9d162bf2d3303da6f3e777bbae322b33.gif" alt="agrawalrajat310" width="100"  height="100px" alt="CodeSandBox">
  
+<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png" alt="Netlify" width="100" height="100px">
  
+<img src="https://sdtimes.com/wp-content/uploads/2020/04/1_oBm_3saYz4AI_MS6OekdFQ.png" alt="Vercel" width="100"  height="100px">
+ 
+<img src="https://i0.wp.com/www.cyclic-bikestore.com/wp-content/uploads/2016/11/Cyclic-Logo.png?ssl=1" alt="cyclic" width="100"  height="100px">
+ 
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif?auto=format,compress&gif-q=60&format=webm" width="100" height="90px" alt="GIT">
  
  <img src="https://cdn.dribbble.com/users/989984/screenshots/5880822/comp_10.gif" width="100" height="100px" alt="Slack">
- 
 
- 
- <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3550832-2970417.png" width="100" alt="Netlify">
- 
- <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif?auto=format,compress&gif-q=60&format=webm" width="100" height="90px" alt="GIT">
- 
- 
- <img src="https://cdn.dribbble.com/users/7040/screenshots/8214019/media/9d162bf2d3303da6f3e777bbae322b33.gif" alt="agrawalrajat310" width="100"  height="100px" alt="CodeSandBox">
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 </div>
 
 <h3 align="left">Support:</h3>
