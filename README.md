@@ -101,11 +101,11 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
  
 <img src="https://sdtimes.com/wp-content/uploads/2020/04/1_oBm_3saYz4AI_MS6OekdFQ.png" alt="Vercel" width="100"  height="100px">
  
-<img src="https://i0.wp.com/www.cyclic-bikestore.com/wp-content/uploads/2016/11/Cyclic-Logo.png?ssl=1" alt="cyclic" width="100"  height="100px">
+<img src="https://i0.wp.com/www.cyclic-bikestore.com/wp-content/uploads/2016/11/Cyclic-Logo.png?ssl=1" alt="Cyclic" width="100"  height="100px">
  
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif?auto=format,compress&gif-q=60&format=webm" width="100" height="90px" alt="GIT">
  
- <img src="https://cdn.dribbble.com/users/989984/screenshots/5880822/comp_10.gif" margin-left="20px" width="100" height="90px" alt="Slack">
+ <img src="https://cdn.dribbble.com/users/989984/screenshots/5880822/comp_10.gif" align="right" width="100" height="90px" alt="Slack">
 
 </div>
 
