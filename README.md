@@ -70,7 +70,7 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 
 
 <!-- 
@@ -106,6 +106,8 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
  
  <img src="https://cdn.dribbble.com/users/7040/screenshots/8214019/media/9d162bf2d3303da6f3e777bbae322b33.gif" alt="agrawalrajat310" width="100"  height="100px" placeholder="CodeSandBox">
  
+ 
+<h3 align="left">Tools:</h3>
  
 </div>
 
