@@ -51,26 +51,7 @@ Here are some ideas to get you started:
 A passionate Developer, who loves to create slick and attractive websites. Proficient in Web Development, HTML, CSS, JavaScript, React Js + Redux, Next Js, Mongo DB, Express JS, Node Js, Data Structure And Algorithms. Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a Full-Stack Web Developer.
 
 
-<h3 align="left">Connect with me:</h3>
 
-
-<p text-align="center">
-
-<!-- <a href="https://www.linkedin.com/in/rajatagrawal310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a> -->
- 
- <a href="https://www.linkedin.com/in/rajatagrawal310/" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
-
- 
-<a href="https://twitter.com/RAJATAGRAWAL310" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
- 
-
-<!-- <a href="https://codesandbox.io/u/agrawalrajat310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a> -->
- 
- 
-<!-- <a href="https://codepen.io/agrawalrajat310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="agrawalrajat310" height="30" width="40" /></a> -->
-
-
-</p>
 
 <h3 align="left">Languages:</h3>
 
@@ -141,7 +122,27 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/agrawalrajat310"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="agrawalrajat310" /></a></p><br><br>
+
+
 <br>
+
+<h3 align="left">Connect with me:</h3>
+
+
+<p text-align="center">
+
+<a href="https://www.linkedin.com/in/rajatagrawal310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
+ 
+<a href="https://twitter.com/RAJATAGRAWAL310" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
+ 
+
+<!-- <a href="https://codesandbox.io/u/agrawalrajat310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a> -->
+ 
+ 
+<!-- <a href="https://codepen.io/agrawalrajat310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="agrawalrajat310" height="30" width="40" /></a> -->
+
+
+</p>
 
 ## ✍️ Random Dev Quote
 
