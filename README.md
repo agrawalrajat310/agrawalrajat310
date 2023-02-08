@@ -124,12 +124,12 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
  
 <a href="https://twitter.com/RAJATAGRAWAL310" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
  
-## 👨‍💻 Checkout my small projects at :-
+## 👨‍💻 Checkout my some projects at :-
 
 <a href="https://codesandbox.io/u/agrawalrajat310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
  
  
-<a href="https://codepen.io/agrawalrajat310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="agrawalrajat310" height="30" width="40" /></a>
+<a href="https://codepen.io/agrawalrajat310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
 
 </p>
 
@@ -156,7 +156,7 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalrajat310&" alt="agrawalrajat310" /></p>
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=agrawalrajat310&theme=rogue)](https://github.com/agrawalrajat310/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=agrawalrajat310&theme=rogue)]
 
 
 
