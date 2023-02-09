@@ -47,8 +47,9 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I think, I can write good & clean quality code.**
 
-### Summary
-A passionate Developer, who loves to create slick and attractive websites. Proficient in Web Development, HTML, CSS, JavaScript, React Js + Redux, Next Js, Mongo DB, Express JS, Node Js, Data Structure And Algorithms. Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a Full-Stack Web Developer.
+### Summary :
+
+A passionate Full Stack Developer, who loves to create slick and attractive websites. Proficient in Web Development, HTML, CSS, JavaScript, React Js + Redux, Next Js, Mongo DB, Express JS, Node Js, Data Structure And Algorithms. Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a Full-Stack Web Developer.
 
 
 
@@ -115,14 +116,20 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatagrawal310/)
+
+<!-- <h3 align="left">Connect with me:</h3>
 
 
-<p text-align="center">
-
-<a href="https://www.linkedin.com/in/rajatagrawal310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
+<p text-align="center"> -->
  
-<a href="https://twitter.com/RAJATAGRAWAL310" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
+ 
+
+<!-- <a href="https://www.linkedin.com/in/rajatagrawal310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
+ 
+<a href="https://twitter.com/RAJATAGRAWAL310" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="RAJATAGRAWAL310" height="30" width="40" /></a> -->
  
 <!-- ## 👨‍💻 Checkout my some projects at :-
 
