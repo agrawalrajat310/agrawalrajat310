@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Profile;Full+Stack+Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
 </div>
 
+
+<img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
+
 <!--For Profile Views -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawalrajat310&label=Profile%20views&color=0e75b6&style=flat" alt="agrawalrajat310" /> </p>
@@ -50,7 +53,7 @@ Here are some ideas to get you started:
 
 ### Summary :
 
-A passionate Full Stack Developer, who loves to create slick and attractive websites. Proficient in Web Development, HTML, CSS, JavaScript, React Js + Redux, Next Js, Mongo DB, Express JS, Node Js, Data Structure And Algorithms. Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a Full-Stack Web Developer.
+A passionate Full Stack Web Developer, who loves to create slick and attractive websites. Proficient in Web Development, HTML, CSS, JavaScript, React Js + Redux, Next Js, Mongo DB, Express JS, Node Js, Data Structure And Algorithms. Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a Full-Stack Web Developer.
 
 
 
@@ -181,5 +184,5 @@ A passionate Full Stack Developer, who loves to create slick and attractive webs
 
 <!-- (https://github.com/agrawalrajat310/github-readme-activity-graph) -->
 
-
+<img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
 
