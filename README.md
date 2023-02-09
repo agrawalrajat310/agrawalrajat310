@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Profile;Full+Stack+Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
 </div>
 
+<!--For Profile Views -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawalrajat310&label=Profile%20views&color=0e75b6&style=flat" alt="agrawalrajat310" /> </p>
 
@@ -116,29 +117,40 @@ A passionate Full Stack Developer, who loves to create slick and attractive webs
 
 <br>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2>Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" /></h2>
+
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatagrawal310/)
+ 
+ [![Twitter](https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FRAJATAGRAWAL310)](https://twitter.com/RAJATAGRAWAL310)
+ 
+ 
+<!--  ## 👨‍💻 Checkout my some projects at :
+  
+  [![CodeSandBox]()]()
+  
+  [![Codepen]()]() -->
+ 
+ 
+ 
+ 
+ 
+ 
 
 <!-- <h3 align="left">Connect with me:</h3>
-
-
 <p text-align="center"> -->
- 
- 
-
 <!-- <a href="https://www.linkedin.com/in/rajatagrawal310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
  
 <a href="https://twitter.com/RAJATAGRAWAL310" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="RAJATAGRAWAL310" height="30" width="40" /></a> -->
  
-<!-- ## 👨‍💻 Checkout my some projects at :-
+<!-- ## 👨‍💻 Checkout my some projects at :
 
 <a href="https://codesandbox.io/u/agrawalrajat310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
  
  
-<a href="https://codepen.io/agrawalrajat310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a> -->
+<a href="https://codepen.io/agrawalrajat310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
 
-</p>
+</p> -->
 
 ## ✍️ Random Dev Quote
 
