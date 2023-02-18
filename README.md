@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Rajat Agrawal</h1>
 <!-- <h3 align="center">A passionate Full Stack Web Developer from Bharatpur, Rajasthan.</h3> -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Profile;Full+Stack+Web+Developer;1500++Hours+of+Coding+Experience;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Profile;Full+Stack+Web+Developer;1500+ +Hours+of+Coding+Experience;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
 </div>
 
 
