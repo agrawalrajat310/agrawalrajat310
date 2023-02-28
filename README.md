@@ -137,10 +137,6 @@ A passionate Full Stack Web Developer, who loves to create slick and attractive 
  
  
  
- 
- 
- 
-
 <!-- <h3 align="left">Connect with me:</h3>
 <p text-align="center"> -->
 <!-- <a href="https://www.linkedin.com/in/rajatagrawal310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RAJATAGRAWAL310" height="30" width="40" /></a>
@@ -175,7 +171,7 @@ A passionate Full Stack Web Developer, who loves to create slick and attractive 
 
 <br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=agrawalrajat310&show_icons=true&locale=en" alt="agrawalrajat310" /></p>
+<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=agrawalrajat310&show_icons=true&locale=en" alt="agrawalrajat310" /></p>
 
 <br>
 
