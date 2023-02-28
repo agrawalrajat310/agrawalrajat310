@@ -173,9 +173,11 @@ A passionate Full Stack Web Developer, who loves to create slick and attractive 
 
 <p><img align="left" margin-bottom="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrawalrajat310&show_icons=true&locale=en&layout=compact" alt="agrawalrajat310" /></p>
 
+<br>
 
 <p><img align="left" margin-bottom="20px" src="https://github-readme-stats.vercel.app/api?username=agrawalrajat310&show_icons=true&locale=en" alt="agrawalrajat310" /></p>
 
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalrajat310&" alt="agrawalrajat310" /></p>
 
