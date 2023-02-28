@@ -179,7 +179,7 @@ A passionate Full Stack Web Developer, who loves to create slick and attractive 
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalrajat310&" alt="agrawalrajat310" /></p>
+<p><img align="center" margin="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalrajat310&" alt="agrawalrajat310" /></p>
 
 ## ⚡Activity Graph:
 
